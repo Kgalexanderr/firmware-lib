@@ -1,0 +1,7 @@
+mainmenu "Lamb RGB Application"
+
+config LAMB_RGB_LED
+    bool "Enable Lamb Custom RGB LED logic"
+    default n
+
+source "Kconfig.zephyr"
