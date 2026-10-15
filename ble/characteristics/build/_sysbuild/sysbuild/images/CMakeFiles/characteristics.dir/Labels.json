@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/CMakeFiles/characteristics"
+		},
+		{
+			"file" : "/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/CMakeFiles/characteristics.rule"
+		},
+		{
+			"file" : "/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/CMakeFiles/characteristics-complete.rule"
+		},
+		{
+			"file" : "/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-build.rule"
+		},
+		{
+			"file" : "/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-configure.rule"
+		},
+		{
+			"file" : "/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-download.rule"
+		},
+		{
+			"file" : "/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-install.rule"
+		},
+		{
+			"file" : "/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-mkdir.rule"
+		},
+		{
+			"file" : "/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-patch.rule"
+		},
+		{
+			"file" : "/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"characteristics"
+		],
+		"name" : "characteristics"
+	}
+}

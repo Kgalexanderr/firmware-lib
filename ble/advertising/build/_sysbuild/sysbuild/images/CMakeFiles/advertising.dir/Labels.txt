@@ -1,0 +1,13 @@
+# Target labels
+ advertising
+# Source files and their labels
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/advertising/build/_sysbuild/sysbuild/images/CMakeFiles/advertising
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/advertising/build/_sysbuild/sysbuild/images/CMakeFiles/advertising.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/advertising/build/_sysbuild/sysbuild/images/CMakeFiles/advertising-complete.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/advertising/build/_sysbuild/sysbuild/images/advertising-prefix/src/advertising-stamp/advertising-build.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/advertising/build/_sysbuild/sysbuild/images/advertising-prefix/src/advertising-stamp/advertising-configure.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/advertising/build/_sysbuild/sysbuild/images/advertising-prefix/src/advertising-stamp/advertising-download.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/advertising/build/_sysbuild/sysbuild/images/advertising-prefix/src/advertising-stamp/advertising-install.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/advertising/build/_sysbuild/sysbuild/images/advertising-prefix/src/advertising-stamp/advertising-mkdir.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/advertising/build/_sysbuild/sysbuild/images/advertising-prefix/src/advertising-stamp/advertising-patch.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/advertising/build/_sysbuild/sysbuild/images/advertising-prefix/src/advertising-stamp/advertising-update.rule

@@ -1,0 +1,13 @@
+# Target labels
+ characteristics
+# Source files and their labels
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/CMakeFiles/characteristics
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/CMakeFiles/characteristics.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/CMakeFiles/characteristics-complete.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-build.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-configure.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-download.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-install.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-mkdir.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-patch.rule
+/Users/kevinguerrero/dev/GitHub/learn/nrf-learning/ble/characteristics/build/_sysbuild/sysbuild/images/characteristics-prefix/src/characteristics-stamp/characteristics-update.rule
