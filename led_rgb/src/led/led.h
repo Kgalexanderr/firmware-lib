@@ -5,7 +5,7 @@
 #include <zephyr/drivers/led.h>
 #include <zephyr/shell/shell.h>
 
-extern bool led_cmd_testing;
+extern bool led_self_loop;
 
 typedef enum{
   LED_RED,

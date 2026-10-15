@@ -63,7 +63,7 @@ int main(void)
 
     k_msleep(2000);
 
-    while (led_cmd_testing) {
+    while (led_self_loop) {
         printk("RED LED\n");
         set_led_red();   /* Red */
         k_msleep(1000);

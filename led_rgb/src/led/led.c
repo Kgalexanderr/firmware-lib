@@ -5,7 +5,7 @@
 
 static const struct device *leds = DEVICE_DT_GET(DT_NODELABEL(pwmleds));
 
-bool led_cmd_testing = false;
+bool led_self_loop = true;
 
 int led_start(void)
 {
