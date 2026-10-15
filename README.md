@@ -1,3 +1,7 @@
-# firmware-lib
+## firmware-lib
 
-These are awsome firmware codes you can use in our lamb-idea application on EXPO NATIVE
+> This repo contains some firmware code that might be useful for me and me alone.
+
+# Use-case
+
+Currently using these examples to prepare me for my new startup system design @ [Moss](https://lamb-validation.vercel.app/)
